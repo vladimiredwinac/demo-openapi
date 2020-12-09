@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Java desde 9 hasta 13 y mas...",
+    "speaker": "Hillmer Chona",
+    "date": 201911,
+    "description": "Java el lenguaje para desarrollo de software utilizado por más de 12 millones de desarrolladores cambia su modelo de liberación de versiones, bajo el nuevo modelo se han entregado 4 versiones desde Java 10 hasta la 13 , y la versión 14 ya viene en camino\n Esta sesión presentará como está evolucionando este lenguaje y algunas de las principales mejoras que las últimas 4 versiones."
+  },
+  {
+    "title": "A Taste of Microprofile (aka Microprofile Introduction)",
+    "speaker": "Julio Cesar Rocha",
+    "date": 201911,
+    "description": "Microprofile define un modelo estándar de programación de aplicaciones liviano altamente evolutivo en entornos Java EE/Jakarta EE\nEsta sesión estará destinada a explicar el qué, cómo y por qué de este tecnología, teniendo también ejemplos en vivo de varias especificaciones."
+  },
+  {
+    "title": "Apache Kafka desde una perspectiva Java Dev",
+    "speaker": "Victor Ramos",
+    "date": 201911,
+    "description": "Apache Kafka es una plataforma de software de procesamiento en streaming de código abierto escrita en Scala y Java que tiene el objetivo proporcionar una plataforma de alto rendimiento y baja latencia para el procesamiento de datos en tiempo real.\nEn la sesión se hará una introducción a Kafka, pros y contras desde el punto de vista de un Java Developer."
+  },
+  {
+    "title": "Implementando caché en Aplicaciones Web Java",
+    "speaker": "Carlos Roberto Fernandez",
+    "date": 201911,
+    "description": "En la actualidad la experiencia de usuario y la necesidad de poder ofrecer al usuario respuestas rápidas y oportunas para la toma de decisiones se ha vuelto preponderante, es por este motivo que el uso de caché en aplicaciones web es altamente demandado.\nEsta presentación está enfocada en mostrar los diferentes opciones para la implementación de cache en una Aplicacion Web Java, explicar sus diferencias y proveer ejemplos de implementación."
+  },
+  {
+    "title": "Resilient apps using Microprofile",
+    "speaker": "Julio Cesar Rocha Vera",
+    "date": 201912,
+    "description": "Lidiar con fallas inesperadas es uno de los problemás más difíciles de resolver, especialmente en ambientes distribuidos.\nEsta sesión estará destinada a explicar y demostrar algunos patrones para hacer tus aplicaciones más resilientes."
+  },
+  {
+    "title": "Kafka Streams from a Java Dev perspective",
+    "speaker": "Victor Ramos",
+    "date": 201912,
+    "description": "Apache Kafka Streams es una plataforma de software de procesamiento en streaming de código abierto escrita en Scala y Java que tiene el objetivo proporcionar una plataforma de alto rendimiento y baja latencia para el procesamiento de datos en tiempo real.\nEn la sesión se hará una introducción a Kafka Streams, pros y contras desde el punto de vista de un Java Developer."
+  },
+  {
+    "title": "Kafka Streams App & Elasticsearch Integration",
+    "speaker": "Carlos Roberto Fernandez",
+    "date": 201912,
+    "description": "La construcción de aplicaciones en la actualidad demanda la aplicación de diferentes conceptos y tecnologías para satisfacer los requerimientos del mercado. El procesamiento en streaming nos permite procesar grandes volúmenes de datos eficientemente, además es posible acceder a estas grandes cantidades de datos ya procesadas mediante el uso de gestores de de información como es el caso de Elasticsearch. Es por este motivo que resulta preponderante conocer la forma en que este tipo de tecnologías pueden interactuar una con otra.\nEn esta presentación veremos una forma de integrar una aplicación basada en Kafka Streams que procesa información e interactúa con Elasticsearch para el almacenamiento de la misma."
+  },
+  {
+    "title": "Java Certification Path",
+    "speaker": "Julio Cesar Rocha Vera",
+    "date": 202002,
+    "description": "Esta sesión está destinada a explicar el objetivo de las certificaciones Java además de algunos tips para el día de la evaluación"
+  },
+  {
+    "title": "Acquiring a Solid Foundation in Java",
+    "speaker": "Omar Rivera Tola",
+    "date": 202002,
+    "description": "Esta sesión se enfocará en la claridad de los conceptos que se necesita para obtener un alto nivel de competencia en Java"
+  },
+  {
+    "title": "How to build Skycrapers using TDD",
+    "speaker": "Angel Chambi",
+    "date": 202002,
+    "description": "En esta sesión se demostrará que partiendo de pequeños proyectos se pueden llegar a crear sistemas robustos usando TDD como metodología de desarrollo"
+  },
+  {
+    "title": "It's Easy! Contributing to Open Source",
+    "speaker": "Cesar Hernandez",
+    "date": 202004,
+    "description": "The problem developers new to open source have is joining the community, starting to contribute, and using common open source tools. In this session, attendees will learn how to contribute and become valuable a part of any open source community. Attendees will learn soft and hard skills based on two case studies: Eclipse MicroProfile and Apache TomEE projects. Attendees will learn to access the culture of open source projects, expected behavior and attitude toward new contributors; how to start small, take risks, ask lots of questions; and how to get started with common open source tools like Maven, Git, and JIRA. Students will leave this workshop the soft skills and the hard skills required to make meaningful contributions."
+  },
+  {
+    "title": "Architecting Cloud Computing Solutions in Java",
+    "speaker": "Otavio Santana",
+    "date": 202004,
+    "description": "Cloud-Native has become a big buzzword around the world, a term that is practically used by everyone at all times. But what does it mean? What are the advantages it brings to your application and your day as a software developer or architect? What's new in the Java world, and what are the steps to follow for a native cloud application? This presentation is a step-by-step guide that will practically guide you through implementing Cloud computing services effectively and efficiently.\n"
+  },
+  {
+    "title": "Deploying Java Applications to Azure",
+    "speaker": "Reza Rahman",
+    "date": 202004,
+    "description": "This fast-paced, demo-driven, entirely slide free session will show you the many ways of effectively deploying a Java EE application to Azure. We will start by deploying a local Java EE application to basic IaaS on Azure. We will then deploy the same application to a managed Azure PaaS. Finally we will deploy the application to Azure using Docker and Kubernetes. We will discuss the trade-offs of each approach on the way, offering guidelines for which approach might be best for your application on the cloud. At the end of the session, you will have all the demos on GitHub so you can explore them on your own."
+  },
+  {
+    "title": "JavaFX basics",
+    "speaker": "Alvaro Sejas",
+    "date": 202005,
+    "description": "JavaFX es la \"nueva\" tecnología para el desarrollo de Interfaces de Usuario de Java, pero mas allá del empuje inicial, no se ha oído hablar tanto como se quisiera sobre la misma. Esta pequeña presentación quiere dar a conocer los primeros pasos del desarrollo de aplicaciones con JavaFX, la instalación del ambiente, el descubrimiento de sus características básicas, el desarrollo de una aplicación de prueba y algunas cosas interesantes más."
+  },
+  {
+    "title": "Migrating AWS Lambda's front end from Java 8 to Java 11",
+    "speaker": "Yishai Galatzer",
+    "date": 202005,
+    "description": "Yishai, the leader of the JDK team at Amazon, will discuss Amazon Corretto, our no-cost distribution of OpenJDK. Yishai will also explore the journey of migrating AWS Lambda's front-end service from Java 8 to Java 11. We walk through the code and dependency changes required to migrate to Java 11, how we measured performance improvements, and how we safely deployed such a significant update to a large-scale service across multiple regions in production."
+  },
+  {
+    "title": "Acquiring a Solid Foundation in Java",
+    "speaker": "Omar Rivera Tola",
+    "date": 202005,
+    "description": "La claridad de los conceptos que se necesita para obtener un alto nivel de competencia en Java es en lo que se enfoca esta sesión"
+  },
+  {
+    "title": "Acquiring a Solid Foundation in Java",
+    "speaker": "Omar Rivera Tola",
+    "date": 202006,
+    "description": "La claridad de los conceptos que se necesita para obtener un alto nivel de competencia en Java es en lo que se enfoca esta sesión."
+  },
+  {
+    "title": "Building a Kafka metrics exporter with Java 11, Spring boot and Micrometer",
+    "speaker": "Rodrigo Loza",
+    "date": 202006,
+    "description": "The job of SRE engineers is to design and build metrics on top of production systems. These metrics enable them to do troubleshooting in an effective and quick manner. Thus, allowing them to fulfill their most important task which is to have as much uptime as possible. Despite the great availability of open-source tools, SRE engineers are often challenged to do more customization in order to build their metrics. This often results in over-engineered or hardcoded systems that don't scale well. Therefore, it is necessary to build custom exporters in order to achieve efficiency, good practices, and scaling. In this talk, I will discuss how to build a Kafka metrics exporter using Java 11, Spring Boot, and Micrometer. In addition, I will show how to create graphs and alerts for Kafka using the widely used Prometheus and Grafana technologies."
+  },
+  {
+    "title": "Asegurando mis aplicaciones y servicios con Keycloak",
+    "speaker": "Cristian Mamani",
+    "date": 202006,
+    "description": "Keycloak es un producto open source de Red Hat con la cual podemos asegurar las aplicaciones y servicios con una cantidad minima de código.\n\nEn esta charla daré una introducción a Keycloak, mostraré su instalación, configuración básica y les enseñaré cómo extender Keycloak por código a través de Service Provider Interfaces (SPI) y Temas."
+  },
+  {
+    "title": "Mutation Testing con Sonarqube en Java",
+    "speaker": "Jazmin Cussi",
+    "date": 202007,
+    "description": "Ingeniera de sistemas, entusiasta de la tecnología, con particular interés en el área de desarrollo de test automatizados. Con participación en importantes proyectos del área pública y privada.\n\nEn esta sesión veremos cómo integrar el concepto de mutación de pruebas con Sonarqube. Una medida que se suele emplear para medir la efectividad de las pruebas unitarias es el Code Coverage. Sin embargo, no es una medida del todo fiable, el hecho de conocer el número de líneas ejecutadas con las pruebas unitarias no garantiza la calidad de las pruebas. Para complementar esto se emplea el Mutation Testing, se trata de introducir modificaciones en las pruebas, conocidas como mutantes. El objetivo es eliminar a estos ya que cada mutante que sobrevive equivale a una prueba unitaria que no se ha contemplado, un caso que puede dar lugar a un error."
+  },
+  {
+    "title": "Keeping pace with what's new in Java 14 and 15",
+    "speaker": "Mala Gupta",
+    "date": 202007,
+    "description": "Java is moving forward and faster than ever before. How do developers keep pace with what's new in Java with its six-month release cadence? Just knowing a feature is not sufficient.\n\nJoin this live-coded session to stay ahead of the curve as Java adapts to the changing technology landscape and becomes more relevant than ever. The audience will take away why, how, and where to use the new language features like Sealed Classes and Interfaces, Text Blocks, Pattern Matching for instance of and much more that will transform your everyday coding experience.\n\nYou’ll see for yourself if it is worthwhile adopting all these new features."
+  },
+  {
+    "title": "An introduction to reactive",
+    "speaker": "Grace Jansen",
+    "date": 202007,
+    "description": "Ever wondered how honeybees have come to be some of the world's most efficient architects? Learn how we can all use mother nature's expertise to better architect our software solutions to be more reactive, responsive and resilient through reactive architecture frameworks.\nIn this meet-up session, you will:\n-Learn what reactive systems architecture is\n-Learn the various patterns and frameworks you can use to enable this\n-Get hands-on with a short quick-lab using reactive messaging"
+  },
+  {
+    "title": "Construir Aplicaciones Web Modernas Con Java",
+    "speaker": "Geovanny Mendoza Gonzalez",
+    "date": 202008,
+    "description": "En esta presentación, aprenderemos cómo crear una aplicación CRUD en Java: Vaadin, Spring JPA y Base de Datos MySql. Construiremos la aplicación desde cero y recorreremos todos los pasos necesarios para crear sus propias aplicaciones web modernas.\n\nVaadin es un framework web de la próxima generación para la JVM. Vaadin aumenta la productividad de los desarrolladores con una extensa librerías de componentes web, aprovecha las capacidades de los Componentes Web y proporciona un mecanismo para implementar interfaces gráficas de usuario web modernas, que usan Componentes Web y que incluyen las características de las aplicaciones con diseño responsive y PWA (Progressive Web Applications). Una API Java intuitiva y una comunicación automatizada entre el servidor y el cliente, lo que significa que puede crear aplicaciones web al 100% en Java.\n\nÚnete a esta sesión y aprende cómo implementar aplicaciones web modernas usando sólo el lenguaje Java."
+  },
+  {
+    "title": "Acquiring a Solid Foundation in Java",
+    "speaker": "Omar Rivera Tola",
+    "date": 202008,
+    "description": "Esta sesión se enfoca en mostrar los fundamentos y clarificar conceptos relacionados al lenguaje. En esta sección se verán conceptos relacionados a encapsulación, herencia, relaciones IS-A y HAS-A, polimorfismo, sobreescritura, sobrecarga y el uso de la anotación @Override"
+  },
+  {
+    "title": "How to test in a prod-like environment with Docker",
+    "speaker": "Jonathan Vila",
+    "date": 202009,
+    "description": "We all know about the importance of testing, we do our unit tests, we continue with our integration tests….. but in each case we are always testing isolated features and we use mocks for those things not important in those tests….. So what about testing everything with real layers and all together ? And, even better, having that big test encapsulated in our project test suits and runnable locally and from our CI… Here is where Testcontainers appear."
+  },
+  {
+    "title": "Acquiring a Solid Foundation in Java",
+    "speaker": "Omar Rivera Tola",
+    "date": 202009,
+    "description": "Continuaremos aprendiendo sobre conceptos de programación orientada a objetos como ser casting, implementación de interfaces, tipos de retorno y constructores en Java 8"
+  },
+  {
+    "title": "Acceptance Test",
+    "speaker": "Raquel Condori",
+    "date": 202010,
+    "description": ""
+  },
+  {
+    "title": "End to End Test",
+    "speaker": "Jazmin Cussi",
+    "date": 202010,
+    "description": ""
+  },
+  {
+    "title": "Especificación OPENAPI y Javadoc",
+    "speaker": "Vladimir Alaro",
+    "date": 202012,
+    "description": ""
+  },
+  {
+    "title": "Guía para la Correcta Documentación de una API",
+    "speaker": "Liliana Iriarte",
+    "date": 202012,
+    "description": ""
+  }
+]
